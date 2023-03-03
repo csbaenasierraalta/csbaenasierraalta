@@ -1,0 +1,30 @@
+* {
+  margin: 5px;
+  padding: 1fr;
+  background-color: bisque;
+}
+
+.buttons__justify {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.section__justify {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+nav ul {
+  list-style-type: none;
+  font-family: Din condensed Impact, Haettenschweiler, "Arial Narrow Bold",
+    sans-serif;
+}
+
+h1 {
+  font-family: Din Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+p {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
